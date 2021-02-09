@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel+Decorative:wght@900&family=Kumbh+Sans&display=swap');
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
